@@ -824,7 +824,7 @@ h5 {
 }
 
 .modal-form-policy-checkbox:checked + .modal-form-policy-text::before {
-  background-image: url(/images/icon-checked.svg);
+  background-image: url(../images/icon-checked.svg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: auto;
